@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604648989 source:d:\code\berlekamp-massey\main.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+
+1604669748 source:d:\code\berlekamp-massey\bm.cpp
+	<iostream>
+
+1604716325 source:d:\code\berlekamp-massey\cbm.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"random.h"
+
+1604716282 d:\code\berlekamp-massey\random.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
