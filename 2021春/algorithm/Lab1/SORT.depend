@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1619788619 source:d:\2021´º\algorithm\sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<sys/time.h>
+	<stdio.h>
+	"sort.h"
+
+1619101824 d:\2021´º\algorithm\sort\sort.h
+	<limits.h>
+
+1619788567 source:d:\2021´º\algorithm\sort\sort.cpp
+	<limits.h>
+

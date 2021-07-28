@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1620901881 source:d:\2021뉴\algorithm\lab2\code\rbtree.cpp
+	"RBTree.h"
+
+1620555244 d:\2021뉴\algorithm\lab2\code\rbtree.h
+	<iomanip>
+	<iostream>
+	<string>
+
+1620555360 source:d:\2021뉴\algorithm\lab2\code\ultity.cpp
+	"ultity.h"
+
+1619850816 d:\2021뉴\algorithm\lab2\code\ultity.h
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1620829388 source:d:\2021뉴\algorithm\lab2\code\array.cpp
+	"array.h"
+
+1620828797 d:\2021뉴\algorithm\lab2\code\array.h
+	<string>
+	<iostream>
+
+1620829388 source:d:\2021뉴\algorithm\lab2\code\linked.cpp
+	"linked.h"
+
+1620828797 d:\2021뉴\algorithm\lab2\code\linked.h
+	<string>
+	<iostream>
+
+1620904457 source:d:\2021뉴\algorithm\lab2\code\lab2.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"ultity.h"
+	"array.h"
+	"linked.h"
+	"RBTree.h"
+

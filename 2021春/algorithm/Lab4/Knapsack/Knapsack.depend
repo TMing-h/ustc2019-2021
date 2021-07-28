@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1623925899 source:d:\2021´º\algorithm\lab4\knapsack\main.cpp
+	<iostream>
+	<math.h>
+	"fun.h"
+
+1623927264 source:d:\2021´º\algorithm\lab4\knapsack\fun.cpp
+	"fun.h"
+
+1623769944 d:\2021´º\algorithm\lab4\knapsack\fun.h
+	<iostream>
+	<math.h>
+	<queue>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Wincrypt.h"
+
